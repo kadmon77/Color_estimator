@@ -13,7 +13,7 @@ The program supports both **absorbance** and **fluorescence** spectra in the fol
 - **JASCO CSV**
 - **SpectraSuite**
 - **Cal(ai)²doscope**
-- **Generic**: Classical tab-, comma-, semicolumn- or space-separated values
+- **Generic**: Classical tab-, comma-, semicolon- or space-separated values
 
 ---
 
