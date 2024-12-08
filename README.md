@@ -87,7 +87,7 @@ Users can enable these simulations dynamically via checkboxes.
 #### Clone the Repository
 To get started, clone this repository:
 ```bash
-git clone https://github.com/kadmon77/Color_estimator.git
+git clone https://github.com/VirgileAdam/Color_estimator.git
 cd Color_estimator
 ```
 
